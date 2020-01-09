@@ -20,14 +20,14 @@
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>My-app-releases</id>
-      <name>Corporate Repository</name>
+      <name>My-app-releases</name>
       <url>http://172.31.11.246:8081/nexus/content/repositories/My-app-releases</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>My-app-snapshots</id>
-      <name>Propellors Snapshots</name>
+      <name>My-app-snapshots</name>
       <url>http://172.31.11.246:8081/nexus/content/repositories/My-app-snapshots</url>
       <layout>legacy</layout>
     </snapshotRepository>
