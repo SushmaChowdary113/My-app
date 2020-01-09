@@ -31,6 +31,5 @@
       <url>http://172.31.11.246:8081/nexus/content/repositories/My-app-snapshots</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    ...
-  </distributionManagement>
+   </distributionManagement>
 </project>
